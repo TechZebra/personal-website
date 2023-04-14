@@ -4,7 +4,7 @@ showReadingTime: false
 showDate: false
 layout: "simple"
 ---
-Certifications like the one below help me stay current with the latest technologies and trends in the industry. The majority of these certifications require ongoing training and education to maintain, which helps me stay up-to-date with the latest developments in the field. I’m currently studying to take Microsoft’s AZ-305 exam. When I pass I’ll be a certified Azure Solutions Architect Expert. More information about that certification can be found on Microsoft's site [here](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/).
+Certifications like the ones below help me stay current with the latest technologies and trends in the industry. The majority of these certifications require ongoing training and education to maintain, which helps me stay up-to-date with the latest developments in the field. I’m currently studying to take Microsoft’s AZ-305 exam. When I pass I’ll be a certified Azure Solutions Architect Expert. More information about that certification can be found on Microsoft's site [here](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/).
 
 
 |   |   |
