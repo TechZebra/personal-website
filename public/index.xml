@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian Carey</title>
+    <link>https://iancarey.io/</link>
+    <description>Recent content on Ian Carey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://iancarey.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>https://iancarey.io/blog/hello-world/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://iancarey.io/blog/hello-world/</guid>
+      <description>and it begins&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://iancarey.io/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iancarey.io/about-me/</guid>
+      <description>My name ais Ian Carey, and I&amp;rsquo;m excited to share a little bit about myself with you.</description>
+    </item>
+    
+    <item>
+      <title>Certifications</title>
+      <link>https://iancarey.io/certifications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iancarey.io/certifications/</guid>
+      <description>Certifications like the one below help me stay current with the latest technologies and trends in the industry.</description>
+    </item>
+    
+  </channel>
+</rss>
