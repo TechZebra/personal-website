@@ -4,7 +4,7 @@ showReadingTime: false
 showDate: false
 layout: "simple"
 ---
-My name is Ian Carey, and I'm excited to share a little bit about myself with you. :)
+My name ais Ian Carey, and I'm excited to share a little bit about myself with you. :)
 
 I am currently an IT Analyst by profession, I have a passion for all things tech and have a desire to specialize and focus on cloud technologies. Check out my [certification](https://iancarey.io/certifications) and [blog](https://iancarey.io/blog) pages to see what I've been working on and thinking about! I love diving deep into complex problems and finding innovative solutions to them. It's challenging work, but it's also incredibly rewarding to help organizations, and (more importantly) the people that do the work operate more efficiently.
 
