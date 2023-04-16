@@ -19,7 +19,7 @@ hugo new site mysite
 
 2. I've also dabbled in Hugo. Hugo is a popular open-source static site generator. It was created in 2013 and generates static HTML files, so no database is required for server side processing! You can learn more about Hugo by clicking [here](https://gohugo.io).
 
-3. I have used Microsoft's cloud computing platform, Microsoft Azure before in a various professional roles. This however, marks the first time using it in a personal capacity to host something! Best of all, hosting a static website like this is free! Wanna do the same for yourself? Check it out [here](https://learn.microsoft.com/en-us/azure/static-web-apps/overview)
+3. I have used Microsoft's cloud computing platform, Microsoft Azure before in various professional roles. This however, marks the first time using it in a personal capacity to host something! Best of all, hosting a static website like this is free! Wanna do the same for yourself? Check it out [here](https://learn.microsoft.com/en-us/azure/static-web-apps/overview)
 
 4. Last, but certainly not least is my use of Github! I've browsed to Github before while surfing along the internet, but this is the first time I've created my own repo. Feel free to [check it out](https://github.com/techzebra)!
 
