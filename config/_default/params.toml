@@ -64,7 +64,7 @@ enableCodeCopy = false
   showTermCount = true
 
 [fathomAnalytics]
-  # site = "AGHYWWMM"
+    site = "AGHYWWMM"
   # domain = "llama.yoursite.com"
 
 [verification]
