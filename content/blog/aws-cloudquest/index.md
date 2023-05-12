@@ -17,7 +17,7 @@ Enter AWS Skill Builder. AWS Skill Builder is AWS’ repository of official trai
 
 While I’m early in the training and learning process regarding AWS, I feel they have a real leg up on Microsoft here. Microsoft Learn is an incredibly robust platform with a ton of good information. Still, no live labs were included in the Azure certification training paths I participated in. I’d like to see Microsoft step up and offer more to individuals who want to train and learn. 
 
-Due to these differences, I feel as though I made the right choice by jumping in to learn about AWS. I look forward to completing more labs and challenges within AWS skill builder and Cloud Quest.
+Due to these differences, I feel as though I made the right choice by jumping in to learn about AWS. I look forward to completing more labs and challenges within AWS Skill Builder and Cloud Quest.
 
 Until next time, 
 
