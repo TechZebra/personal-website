@@ -17,7 +17,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "Ian Carey"
   image = "img/headshot.jpg"
-  headline = "IT Analyst, NCAA Basketball Referee, and Certified Azure Administrator."
+  headline = "IT Analyst, NCAA Basketball Referee, Cat Dad, and Aspiring Cloud Engineer."
 # bio = "A little bit about you"
   links = [
       { email = "mailto:ian@iancarey.io" },
