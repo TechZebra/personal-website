@@ -6,10 +6,11 @@ baseURL = "https://iancarey.io/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
-paginate = 10
 summaryLength = 0
 googleAnalytics = "G-XDQ1K2EED7"
 
+[pagination]
+  pagerSize = 10
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-

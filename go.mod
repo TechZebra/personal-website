@@ -1,5 +1,5 @@
-module github.com/TechZebra/techzebra.github.io
+module mywebsite
 
-go 1.19
+go 1.23.5
 
-require github.com/jpanther/congo/v2 v2.5.4 // indirect
+require github.com/jpanther/congo/v2 v2.10.0 // indirect

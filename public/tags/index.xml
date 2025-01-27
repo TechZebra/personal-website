@@ -4,7 +4,8 @@
     <title>Tags on Ian Carey</title>
     <link>https://iancarey.io/tags/</link>
     <description>Recent content in Tags on Ian Carey</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://iancarey.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://iancarey.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

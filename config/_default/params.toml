@@ -7,16 +7,22 @@
 
 colorScheme = "ocean"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
+
+defaultThemeColor = "#FFFFFF"
 
 enableSearch = false
 enableCodeCopy = false
+enableImageLazyLoading = true
+enableImageWebp = true
 
 # robots = ""
+fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "hamburger" # valid options: basic, hamburger, hybrid, custom
-  #logo = "img/logo.jpg"
+  # logo = "img/headshot.jpg"
+  # logoDark = "img/dark-logo.jpg"
   showTitle = true
 
 [footer]
@@ -47,7 +53,7 @@ enableCodeCopy = false
   showTaxonomies = false
   showWordCount = false
   showComments = false
-  # sharingLinks = ["facebook", "twitter", "mastodon", "pinterest", "reddit", "linkedin", "email"]
+  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo"]
 
 [list]
   showBreadcrumbs = false
@@ -64,8 +70,16 @@ enableCodeCopy = false
   showTermCount = true
 
 [fathomAnalytics]
-  #  site = "AGHYWWMM"
-  # domain = "llama.yoursite.com"
+  # site = "ABC12345"
+
+[plausibleAnalytics]
+  # domain = "blog.yoursite.com"
+  # event = ""
+  # script = ""
+
+#[umamiAnalytics]
+#  site = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+#  region = "eu"  # can be either "eu" or "us"
 
 [verification]
   # google = ""
