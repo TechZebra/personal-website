@@ -3,7 +3,7 @@ title: "Hello World!"
 showReadingTime: false
 date: 2023-04-13
 showDate: true
-summary: "and it begins..."
+summary: "And it begins..."
 ---
 Well, this is cool! 
 
