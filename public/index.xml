@@ -6,20 +6,27 @@
     <description>Recent content on Ian Carey</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://iancarey.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>I&#39;ve got .Next!</title>
+      <link>https://iancarey.io/blog/2025-05-15/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://iancarey.io/blog/2025-05-15/</guid>
+      <description>What a trip!</description>
+    </item>
+    <item>
       <title>It&#39;s been a while.</title>
-      <link>https://iancarey.io/blog/its-been-a-while/</link>
+      <link>https://iancarey.io/blog/2025-02-02/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://iancarey.io/blog/its-been-a-while/</guid>
+      <guid>https://iancarey.io/blog/2025-02-02/</guid>
       <description>Long time, no see!</description>
     </item>
     <item>
       <title>Playing Games and Getting Certified.</title>
-      <link>https://iancarey.io/blog/aws-cloudquest/</link>
+      <link>https://iancarey.io/blog/2023-05-11/</link>
       <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://iancarey.io/blog/aws-cloudquest/</guid>
+      <guid>https://iancarey.io/blog/2023-05-11/</guid>
       <description>Another quest starts!</description>
     </item>
     <item>
