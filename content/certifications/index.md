@@ -16,7 +16,7 @@ Certifications like the ones below have helped me learn new skills and validate 
     </a>
   </div>
   <!-- Row 2 Microsoft -->
-  <a href="https://learn.microsoft.com/.../DE15422A9F5AB1F5?sharingId=F739B830992F3D19">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/IanCarey-9989/DE15422A9F5AB1F5?sharingId=F739B830992F3D19">
     {{< responsive src="microsoft-certified-azure-fundamentals-2.svg"
                    alt="Microsoft Certified: Azure Fundamentals" >}}
   </a>
