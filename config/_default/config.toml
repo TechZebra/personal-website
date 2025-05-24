@@ -2,6 +2,8 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
+theme = "github.com/jpanther/congo/v2"
+
 baseURL = "https://iancarey.io/"
 defaultContentLanguage = "en"
 
@@ -14,3 +16,10 @@ googleAnalytics = "G-XDQ1K2EED7"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[module]
+  [[module.imports]]
+    path = "github.com/jpanther/congo/v2"
+
+[params]
+  favicon = "favicon.ico"

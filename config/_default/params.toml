@@ -43,7 +43,7 @@ fingerprintAlgorithm = "sha256"
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
+# editURL = "https://github.com/username/repo/"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
@@ -86,3 +86,5 @@ fingerprintAlgorithm = "sha256"
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+favicon = "favicon.ico"
