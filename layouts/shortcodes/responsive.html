@@ -1,0 +1,46 @@
+{{/* layouts/shortcodes/responsive.html */}}
+{{ $src := .Get "src" }}
+{{ $ext := lower (path.Ext $src) }}
+
+{{ if eq $ext ".svg" }}
+  {{/* SVG: serve from bundle or static, then center nicely */}}
+  {{ $res := .Page.Resources.GetMatch $src }}
+  <div style="width:100%; text-align:center; margin:0 auto;">
+    {{ if $res }}
+      <img
+        src="{{ $res.RelPermalink }}"
+        alt="{{ .Get "alt" }}"
+        style="display:inline-block; max-width:300px; width:auto; height:auto;"
+      />
+    {{ else }}
+      <img
+        src="{{ $src | relURL }}"
+        alt="{{ .Get "alt" }}"
+        style="display:inline-block; max-width:300px; width:auto; height:auto;"
+      />
+    {{ end }}
+  </div>
+{{ else }}
+  {{/* Raster images: generate & serve multiple sizes, then center */}}
+  {{ $img := .Page.Resources.GetMatch $src }}
+  {{ if not $img }}{{ errorf "Image %q not found in page bundle" $src }}{{ end }}
+
+  {{ $w300  := $img.Resize "300x" }}
+  {{ $w600  := $img.Resize "600x" }}
+  {{ $w1200 := $img.Resize "1200x" }}
+  {{ $w2048 := $img.Resize "2048x" }}
+
+  <div style="width:100%; text-align:center; margin:0 auto;">
+    <img
+      src="{{ $w300.RelPermalink }}"
+      srcset="
+        {{ $w300.RelPermalink }} 300w,
+        {{ $w600.RelPermalink }} 600w,
+        {{ $w1200.RelPermalink }} 1200w,
+        {{ $w2048.RelPermalink }} 2048w"
+      sizes="300px"
+      style="display:inline-block; max-width:300px; width:auto; height:auto;"
+      alt="{{ .Get "alt" }}"
+    />
+  </div>
+{{ end }}

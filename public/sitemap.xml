@@ -4,49 +4,49 @@
   
     
       <url>
-            <loc>http://localhost:1313/blog/</loc>
+            <loc>https://iancarey.io/blog/</loc>
             <lastmod>2025-05-15T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/blog/2025-05-15/</loc>
+            <loc>https://iancarey.io/blog/2025-05-15/</loc>
             <lastmod>2025-05-15T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/</loc>
+            <loc>https://iancarey.io/</loc>
             <lastmod>2025-05-15T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/blog/2025-02-02/</loc>
+            <loc>https://iancarey.io/blog/2025-02-02/</loc>
             <lastmod>2025-02-02T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/blog/2023-05-11/</loc>
+            <loc>https://iancarey.io/blog/2023-05-11/</loc>
             <lastmod>2023-05-11T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/blog/hello-world/</loc>
+            <loc>https://iancarey.io/blog/hello-world/</loc>
             <lastmod>2023-04-13T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/about-me/</loc>
+            <loc>https://iancarey.io/about-me/</loc>
           </url>
     
   
@@ -54,7 +54,7 @@
   
     
       <url>
-            <loc>http://localhost:1313/certifications/</loc>
+            <loc>https://iancarey.io/certifications/</loc>
           </url>
     
   
